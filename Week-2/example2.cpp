@@ -20,10 +20,13 @@ int main(){
     cout<<"The value of a is "<< a <<endl;
 
 
-    
+    // You can also just initialize a variable without a value
 
+    // int a; 
 
+    // cout<<"The value of a is "<< a <<endl;
 
+    // This will fill a with a dummy value of zero
 
 
 
