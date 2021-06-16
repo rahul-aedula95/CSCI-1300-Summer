@@ -19,7 +19,7 @@ int main(){
     // let us now try to see how it holds up for if else
 
 
-    if (isdigit(var2[0])){    // go ahead and test the different functions above with different combinations. This is just an example
+    if (isdigit(var2[0])){    // go ahead and test the different functions above with different combinations of characters from the above strings. This is just an example
 
         cout<<"We entered the true branch of if statement"<<endl;
 
