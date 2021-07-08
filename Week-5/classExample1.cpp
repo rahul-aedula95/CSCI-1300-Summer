@@ -11,7 +11,7 @@ class Recitation{
 
     public:
         string name;
-        int section = 001;
+        int section = 3;
     
     private:
         int ssn = 12345;
@@ -19,21 +19,15 @@ class Recitation{
 };
 
 
-
-
-
-
-
-
 int main(){
 
-Recitation student;
+Recitation student; // variables created by a class are objects
+
+student.name = "Rahul";
 
 
-
-
-cout << student.name << endl;
-// cout << student.ssn << endl;
+// cout << student.section << endl;
+cout << student.ssn << endl;
 
 
 }

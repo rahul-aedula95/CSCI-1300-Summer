@@ -30,11 +30,6 @@ class Recitation{
 
 
 
-
-
-
-
-
 int main(){
 
 Recitation student;
