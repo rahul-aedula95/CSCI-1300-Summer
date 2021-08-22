@@ -10,6 +10,8 @@ int main(){
 
     mp["Rahul"] = 26;
     cout<<mp["Rahul"]<<endl;
+    mp["Rahul"] = 29;
+    cout<<mp["Raul"]<<endl;
 
 
     //check if key exists

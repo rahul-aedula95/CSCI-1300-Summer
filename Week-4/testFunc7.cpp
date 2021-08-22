@@ -10,6 +10,7 @@ void testingFunc(int var[], int arraySize)
         var[i] = var[i] + 1;
     }
     
+    int arr[3] = {80,90,100};
 
 }
 int main()

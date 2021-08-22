@@ -10,21 +10,21 @@ int main(){
 
     // Let us create some variables.
 
-    int a = 10;
+    // int a = 10;
 
-    // if you want to change the value of a
+    // // if you want to change the value of a
     
-    a = 20;
+    // a = 20;
 
 
-    cout<<"The value of a is "<< a <<endl;
+    // cout<<"The value of a is "<< a <<endl;
 
 
     // You can also just initialize a variable without a value
 
-    // int a; 
+    int a; 
 
-    // cout<<"The value of a is "<< a <<endl;
+    cout<<"The value of a is "<< a <<endl;
 
     // This will fill a with a dummy value of zero
 

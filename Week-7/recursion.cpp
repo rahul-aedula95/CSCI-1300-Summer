@@ -11,7 +11,7 @@ int fib(int x) {
 }
 
 
-
+// 0 1 1 2 3 5
 int main() {
    int x , i=0;
    cout << "Enter the number of terms of series : ";
@@ -22,6 +22,7 @@ int main() {
       cout << " " << fib(i);
       i++;
    }
+   cout<<""<<endl;
    return 0;
 
 }

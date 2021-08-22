@@ -22,7 +22,7 @@ int testingFunc(int var)
 int main()
 
 {
-int a = 7;
+int a = 3;
 int result;
 
 //Calling a function

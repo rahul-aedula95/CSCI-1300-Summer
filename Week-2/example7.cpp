@@ -10,5 +10,7 @@ int main(){
         cout<<"print something"<<endl;
     }
 
+    cout<<i<<endl;
+
 
 }

@@ -11,7 +11,7 @@ int main()
    // Ask a basic question
    Question q1;
    q1.set_text("Who was the inventor of C++?");
-   q1.set_answer("Bjarne Stroustrup");
+   q1.set_answer("Bjarne");
 
    q1.display();
    cout << "Your answer: ";

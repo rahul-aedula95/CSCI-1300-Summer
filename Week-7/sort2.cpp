@@ -19,7 +19,7 @@ int main(){
     int arr[5] = {40,10,30,20,50};
 
 
-    sort(arr, arr+5, compareFunc);
+    sort(arr+1, arr+5, compareFunc);
 
       for(auto element: arr){
 

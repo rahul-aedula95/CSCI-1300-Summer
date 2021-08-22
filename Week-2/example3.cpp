@@ -40,7 +40,7 @@ int main(){
     cout<<"The value of sum is "<< sum <<endl;
 
 
-    // we can also do the same thing with different data type
+    // // we can also do the same thing with different data type
 
 
     float x  = 2.5;

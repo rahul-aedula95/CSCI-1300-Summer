@@ -11,6 +11,7 @@ class Numbers{
         Numbers(){
 
             product = 1;
+            cout<<"COnstructor called"<<endl;
     
         }
         
